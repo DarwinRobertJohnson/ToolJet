@@ -573,7 +573,7 @@ It's enabled by default. Table footer will show two update buttons **Save change
 
 ## Devices
 
-|  <div style={{ width:"135px"}}> Option </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"135px"}}> Expected Value </div> |
+|  <div style={{ width:"135px"}}> Property </div> |  <div style={{ width:"100px"}}> Description </div> |  <div style={{ width:"135px"}}> Expected Value </div> |
 |:----------- |:----------- |:----------- |
 | Show on desktop | Toggle on or off to show or hide the component on desktop devices. | `{{true}}` or `{{false}}` |
 | Show on mobile | Toggle on or off to show or hide the component on mobile devices. | `{{true}}` or `{{false}}` |
